@@ -1,0 +1,13 @@
+# We learned how to use variables and combine them with strings. This means that I am now able to make sentences with the variable I have.
+print("Welcome, answer the questions below")
+food = input("What is your favorite food? ")
+print("Your favorite food is " + food)
+plant = input("What is your favorite type of plant? ")
+print("Your favorite plant is " + plant)
+method = input("What is your favorite method of cooking?")
+print("Your favorite method of cooking is " + method)
+burned = input("What is a word that describes burned food?")
+print("A word that describes burned food is " + burned)
+item = input("What is your favorite household item?")
+print("Your favorite household item is " + item)  
+print("You like to make", method, food, "with", burned, plant, "on a bed of", item)
