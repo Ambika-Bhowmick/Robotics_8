@@ -1,5 +1,5 @@
 # I learned how to use the int and float to make sure the computer can recognize numbers
-# Day 8
+# Day 9
 year = int(input("What year were you born in?"))
 if year >= 1925 and 1946:
   print("You are a Traditionalist.")
